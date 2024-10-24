@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+    
+    printf("Hiiiii");
+    
+    printf("How ya doin????");
+    
+    printf("good probably...");
+
+    return 0;
+}
